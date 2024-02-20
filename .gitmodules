@@ -1,0 +1,9 @@
+[submodule "tp-web"]
+	path = tp-web
+	url = https://github.com/PluxCo/tp-web
+[submodule "tp-questions"]
+	path = tp-questions
+	url = https://github.com/PluxCo/tp-questions
+[submodule "tp-telegram"]
+	path = tp-telegram
+	url = https://github.com/PluxCo/tp-telegram
